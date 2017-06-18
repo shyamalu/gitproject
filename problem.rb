@@ -5,4 +5,6 @@ class Problem {
  }
 
  function solveTough() {}
+
+ function updatedB() {}
 }

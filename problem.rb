@@ -7,4 +7,6 @@ class Problem {
  function solveTough() {}
 
  function updatedB() {}
+
+ function updateC() {}
 }
